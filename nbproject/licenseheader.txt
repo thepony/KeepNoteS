@@ -1,0 +1,18 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}This code is free for use by anyone AS LONG AS YOU SHARE WHERE YOU GOT IT!
+${licensePrefix}I also sincerely ask for credit where credit is due if you use this code
+${licensePrefix}for anything useful. if you feel so inclined you may donate to my
+${licensePrefix}coffee, snacks, and encouragement fund... it supplies caffine, chips,
+${licensePrefix}and helps keep me coding. just open a browser and use this link:
+${licensePrefix}https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=NZ5MHFDKKVFFN
+${licensePrefix}...and thank you, have a wonderful day!
+ 
+
+
+
+
+<#if licenseLast??>
+${licenseLast}
+</#if>
